@@ -17,7 +17,7 @@ sudo systemctl start jenkins
 
 sudo systemctl enable jenkins
 
-# Docker Installation
+# Docker InstallationW
 
 curl -fsSL https://get.docker.com -o get-docker.sh
 
